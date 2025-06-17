@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hogwarts/static/css/main.f3966a4d.css",
+    "main.css": "/hogwarts/static/css/main.cbe9c979.css",
     "main.js": "/hogwarts/static/js/main.6653ba82.js",
-    "static/media/victory-bg.jpg": "/hogwarts/static/media/victory-bg.836e343fa269a4ae2c97.jpg",
-    "static/media/dumbledore-office.jpg": "/hogwarts/static/media/dumbledore-office.de3188a4ff8a097b8574.jpg",
+    "static/media/victory-bg.jpg": "/hogwarts/static/media/victory-bg.61529a181b3315680304.jpg",
     "static/media/tower.jpg": "/hogwarts/static/media/tower.25573ffc77be2c84b6fe.jpg",
-    "static/media/library.jpg": "/hogwarts/static/media/library.24c0a86c42ea4d6c4c52.jpg",
     "static/media/wand.png": "/hogwarts/static/media/wand.f20ba7523693b7d7b4f1.png",
-    "static/media/hogwarts-main.jpg": "/hogwarts/static/media/hogwarts-main.f7d64d0b9fb2f439dc70.jpg",
+    "static/media/library.jpg": "/hogwarts/static/media/library.e245325a4011d85c0a75.jpg",
+    "static/media/dumbledore-office.jpg": "/hogwarts/static/media/dumbledore-office.58cfaeaa5e633eb92a07.jpg",
     "static/media/quidditch.jpg": "/hogwarts/static/media/quidditch.8f9c2498809473a0492e.jpg",
     "static/media/lake.jpg": "/hogwarts/static/media/lake.ff82c7a0b0ed96491a94.jpg",
-    "static/media/dungeon.jpg": "/hogwarts/static/media/dungeon.660c791885f914dc2746.jpg",
-    "static/media/potions.jpg": "/hogwarts/static/media/potions.34609d7ba9bc72ddce12.jpg",
-    "static/media/great-hall.jpg": "/hogwarts/static/media/great-hall.589726249075ad83510a.jpg",
+    "static/media/dungeon.jpg": "/hogwarts/static/media/dungeon.bf5f39b6dbe8c9de3b27.jpg",
+    "static/media/great-hall.jpg": "/hogwarts/static/media/great-hall.607e6d5ff7964a992bf2.jpg",
     "static/media/owlery.jpg": "/hogwarts/static/media/owlery.5bf44ed54c9e27153710.jpg",
-    "static/media/forest.jpg": "/hogwarts/static/media/forest.388c2fe7a30f375ab3ee.jpg",
+    "static/media/hogwarts-main.jpg": "/hogwarts/static/media/hogwarts-main.52d235b2fdbd4048ca1f.jpg",
+    "static/media/potions.jpg": "/hogwarts/static/media/potions.65cc872b046591ef905c.jpg",
+    "static/media/forest.jpg": "/hogwarts/static/media/forest.1fd0c667999c210e1d4b.jpg",
     "index.html": "/hogwarts/index.html",
-    "main.f3966a4d.css.map": "/hogwarts/static/css/main.f3966a4d.css.map",
+    "main.cbe9c979.css.map": "/hogwarts/static/css/main.cbe9c979.css.map",
     "main.6653ba82.js.map": "/hogwarts/static/js/main.6653ba82.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3966a4d.css",
+    "static/css/main.cbe9c979.css",
     "static/js/main.6653ba82.js"
   ]
 }
