@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hogwarts/static/css/main.80cf9d7d.css",
+    "main.js": "/hogwarts/static/js/main.71958f8b.js",
+    "static/media/victory-bg.jpg": "/hogwarts/static/media/victory-bg.836e343fa269a4ae2c97.jpg",
+    "static/media/dumbledore-office.jpg": "/hogwarts/static/media/dumbledore-office.de3188a4ff8a097b8574.jpg",
+    "static/media/tower.jpg": "/hogwarts/static/media/tower.25573ffc77be2c84b6fe.jpg",
+    "static/media/library.jpg": "/hogwarts/static/media/library.24c0a86c42ea4d6c4c52.jpg",
+    "static/media/hogwarts-main.jpg": "/hogwarts/static/media/hogwarts-main.f7d64d0b9fb2f439dc70.jpg",
+    "static/media/quidditch.jpg": "/hogwarts/static/media/quidditch.8f9c2498809473a0492e.jpg",
+    "static/media/lake.jpg": "/hogwarts/static/media/lake.ff82c7a0b0ed96491a94.jpg",
+    "static/media/dungeon.jpg": "/hogwarts/static/media/dungeon.660c791885f914dc2746.jpg",
+    "static/media/potions.jpg": "/hogwarts/static/media/potions.34609d7ba9bc72ddce12.jpg",
+    "static/media/great-hall.jpg": "/hogwarts/static/media/great-hall.589726249075ad83510a.jpg",
+    "static/media/owlery.jpg": "/hogwarts/static/media/owlery.5bf44ed54c9e27153710.jpg",
+    "static/media/forest.jpg": "/hogwarts/static/media/forest.388c2fe7a30f375ab3ee.jpg",
+    "index.html": "/hogwarts/index.html",
+    "main.80cf9d7d.css.map": "/hogwarts/static/css/main.80cf9d7d.css.map",
+    "main.71958f8b.js.map": "/hogwarts/static/js/main.71958f8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cf9d7d.css",
+    "static/js/main.71958f8b.js"
+  ]
+}
